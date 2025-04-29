@@ -14,7 +14,7 @@
         },
         {
             "id": 3,
-            "nom": "Marta",
+            "nom": "Maria",
             "cognoms": "Puig Abella",
             "nota": 7
         },
@@ -37,15 +37,10 @@
             "nota": 6
         },
         {
-
             "aneu": 7,
-
             "nom": "Xènia",
-
             "cognoms": "Pérez Lecha",
-
             "nota": 8
-
         }
     ]
 }
