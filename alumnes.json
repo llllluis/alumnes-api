@@ -47,6 +47,12 @@
             "nom": "Antonio",
             "cognoms": "Lopez oreja",
             "nota": 6.5
+        },
+		{
+            "aneu": 9,
+            "nom": "Pisituis",
+            "cognoms": "Mayor Arenga",
+            "nota": 10
         }
     ]
 }
