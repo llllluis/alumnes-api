@@ -41,6 +41,12 @@
             "nom": "Xènia",
             "cognoms": "Pérez Lecha",
             "nota": 8
+        },
+		{
+            "aneu": 8,
+            "nom": "Antonio",
+            "cognoms": "Lopez oreja",
+            "nota": 6.5
         }
     ]
 }
